@@ -23,7 +23,7 @@ class Register extends React.Component {
   }
 
   onSubmitSignIn = () => {
-    fetch('http://postgresql-horizontal-24282/register', {
+    fetch('https://shielded-lake-57457.herokuapp.com//register', {
       method: 'post',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({
