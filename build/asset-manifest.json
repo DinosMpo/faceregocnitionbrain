@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/faceregocnitionbrain/static/css/main.b0b99bc6.css",
-    "main.js": "/faceregocnitionbrain/static/js/main.5f2f7334.js",
+    "main.js": "/faceregocnitionbrain/static/js/main.b14abc7f.js",
     "index.html": "/faceregocnitionbrain/index.html",
     "main.b0b99bc6.css.map": "/faceregocnitionbrain/static/css/main.b0b99bc6.css.map",
-    "main.5f2f7334.js.map": "/faceregocnitionbrain/static/js/main.5f2f7334.js.map"
+    "main.b14abc7f.js.map": "/faceregocnitionbrain/static/js/main.b14abc7f.js.map"
   },
   "entrypoints": [
     "static/css/main.b0b99bc6.css",
-    "static/js/main.5f2f7334.js"
+    "static/js/main.b14abc7f.js"
   ]
 }
